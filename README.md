@@ -1,5 +1,5 @@
 # "case-study" #
-[![Netlify Status](https://api.netlify.com/api/v1/badges/92226321-012b-4815-a415-72381615950e/deploy-status)](https://app.netlify.com/projects/case-study/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b7de0c83-2f4f-48dd-8479-768cda724000/deploy-status)](https://app.netlify.com/projects/red-robin-case-study/deploys)
 
 
 
@@ -30,7 +30,7 @@ deliverable/
 
 ### How to build this app ###
 
-* Clone the repository [https://github.com/timhjellum/case-study](git clone https://github.com/timhjellum/case-study.git)
+* Clone the repository [https://github.com/timhjellum/red-robin---case-study](git clone https://github.com/timhjellum/red-robin---case-study.git)
 * `cd "case-study`
 * `npm install`
 * `run npm start`
