@@ -31,6 +31,6 @@ deliverable/
 ### How to build this app ###
 
 * Clone the repository [https://github.com/timhjellum/red-robin---case-study](git clone https://github.com/timhjellum/red-robin---case-study.git)
-* `cd "case-study`
+* `cd case-study`
 * `npm install`
 * `run npm start`
